@@ -4,4 +4,5 @@ gem 'sinatra'
 gem 'rspec-sinatra'
 gem 'capybara'
 gem 'selenium-webdriver'
+gem 'shotgun'
 # gem "rails"
